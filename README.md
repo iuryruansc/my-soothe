@@ -1,3 +1,11 @@
+# My Soothe App - Educational Project
+
+This project is an implementation of the "My Soothe" app from the [Jetpack Compose for Android Developers](https://developer.android.com/courses/jetpack-compose/course) course by Google. It is intended for educational purposes and demonstrates the use of Jetpack Compose for building native Android UI.
+
+## Attribution
+
+The original app concept and course materials are created by Google and the Android Developers team.
+
 # Basic Layouts in Compose Codelab
 
 This folder contains the source code for
